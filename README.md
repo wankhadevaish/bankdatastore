@@ -1,1 +1,3 @@
 # bankdatastore
+
+Simple code of cpp can maintain all bank records of the customers......
